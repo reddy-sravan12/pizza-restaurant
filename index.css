@@ -17,6 +17,10 @@ nav {
     padding: 20px !important;
 }
 
+.header{
+    position: fixed;
+}
+
 .nav-con {
     justify-content: space-between !important;
     background-color: black;
