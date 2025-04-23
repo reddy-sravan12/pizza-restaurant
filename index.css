@@ -20,6 +20,8 @@ nav {
 .header{
     position: fixed;
     width: 100%;
+    top: 0px;
+    
 }
 
 .nav-con {
@@ -65,6 +67,8 @@ nav {
     padding: 5px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+      margin-top: 120px;
+  
 }
 
 .menu-head{
