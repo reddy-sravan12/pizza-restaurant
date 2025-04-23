@@ -19,6 +19,7 @@ nav {
 
 .header{
     position: fixed;
+    width: 100%;
 }
 
 .nav-con {
